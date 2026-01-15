@@ -83,19 +83,6 @@ I'm an **aspiring DevOps engineer** passionate about **automation**, **cloud tec
 |---------|-------------|--------------|
 | **Coming Soon** | Web application development and deployment | Flask, Python, JavaScript |
 
----
-
-## 📈 **GitHub Statistics**
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baggujayaramm&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baggujayaramm&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baggujayaramm&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
