@@ -47,15 +47,6 @@
 | --- | --- |
 | 🌟 Current Projects   * **Coming Soon** - Docker containerization projects * **Coming Soon** - CI/CD pipeline implementations * **Coming Soon** - Cloud infrastructure deployments * **Coming Soon** - Automation scripts and tools | 🔧 Learning Focus   * **Docker & Kubernetes** - Container orchestration * **AWS/Azure/GCP** - Cloud service platforms * **Jenkins & GitHub Actions** - CI/CD automation * **Terraform & Ansible** - Infrastructure as Code |
 
-## 📝 Learning Resources & Notes
-
-![blog](https://imgur.com/fja3q42.png)
-
-
-|  |  |
-| --- | --- |
-| 📌 Study Notes  ✍️ Docker fundamentals and best practices ✍️ Kubernetes architecture and deployments ✍️ CI/CD pipeline design patterns ✍️ Cloud infrastructure concepts | 📌 Practice Projects  📌 Building containerized applications 📌 Setting up automated workflows 📌 Deploying to cloud platforms 📌 Implementing monitoring solutions |
-
 ## ⚡ Tech Stack I'm Learning
 
 ![tech](https://imgur.com/RknLHXQ.png)
