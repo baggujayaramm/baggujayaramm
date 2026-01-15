@@ -17,7 +17,7 @@
 
 |  |  |
 | --- | --- |
-| What I'm Learning   * 🌩️ **Cloud & DevOps**   + Building scalable infrastructures   + AWS, Azure, GCP exploration * 🤖 **Automation Focus**   + CI/CD pipelines   + Infrastructure as Code (IaC) * 📝 **Continuous Learning**   + Hands-on projects   + DevOps best practices   + Community engagement | Quick Links  [GitHub Profile](https://github.com/baggujayaramm) [Email Me](mailto:your.email@example.com) [LinkedIn](https://linkedin.com/in/yourprofile) [Portfolio](https://yourportfolio.com) |
+| What I'm Learning   * 🌩️ **Cloud & DevOps**   + Building scalable infrastructures   + AWS, Azure, GCP exploration * 🤖 **Automation Focus**   + CI/CD pipelines   + Infrastructure as Code (IaC) * 📝 **Continuous Learning**   + Hands-on projects   + DevOps best practices   + Community engagement | Quick Links  [GitHub Profile](https://github.com/baggujayaramm) [Email Me](mailto:baggujayaramm@gmail.com) [LinkedIn](https://www.linkedin.com/in/jaya-ramm-baggu-9b9751258/) [Portfolio](https://yourportfolio.com) |
 
 ![DevOps Banner](https://i.postimg.cc/jqBZ9NLw/image-2.png)
 
