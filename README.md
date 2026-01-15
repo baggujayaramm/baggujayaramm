@@ -11,10 +11,6 @@
 
 ---
 
-[![DevOps Journey](https://imgur.com/tlMOmn0.png)](https://imgur.com/tlMOmn0.png)
-
----
-
 ## 🚀 **About Me**
 
 I'm an **aspiring DevOps engineer** passionate about **automation**, **cloud technologies**, and building **scalable infrastructure**. My journey involves learning and implementing real-world DevOps practices to bridge the gap between development and operations.
@@ -63,45 +59,29 @@ I'm an **aspiring DevOps engineer** passionate about **automation**, **cloud tec
 
 ## 📂 **DevOps Projects & Learning Journey**
 
-### 🐳 **Containerization & Orchestration Projects**
+### 🐳 **Containerization & Orchestration**
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Docker Containerization** | Containerizing applications and creating multi-container environments | Docker, Docker Compose |
-| **Kubernetes Deployments** | Deploying and managing containerized applications at scale | Kubernetes, Docker, Helm |
-| **Microservices Architecture** | Building and deploying microservices-based applications | Docker, K8s, Python |
+| **Coming Soon** | Docker and Kubernetes projects | Docker, Kubernetes |
 
-### ⚙️ **CI/CD & Automation Projects**
+### ⚙️ **CI/CD & Automation**
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **CI/CD Pipeline Setup** | Automated testing and deployment pipelines | Jenkins, GitHub Actions, GitLab CI |
-| **Infrastructure Automation** | Automating infrastructure provisioning and configuration | Terraform, Ansible, Shell Scripts |
-| **Python Automation Scripts** | Scripts for automating DevOps tasks and workflows | Python, Bash, Cron |
+| **Coming Soon** | CI/CD pipeline and automation projects | Jenkins, GitHub Actions |
 
-### ☁️ **Cloud & Infrastructure Projects**
+### ☁️ **Cloud & Infrastructure**
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **AWS Cloud Deployments** | Deploying scalable applications on AWS cloud | AWS EC2, S3, RDS, Lambda |
-| **Infrastructure as Code** | Managing cloud infrastructure through code | Terraform, CloudFormation |
-| **Multi-Cloud Setup** | Working with multiple cloud providers | AWS, Azure, GCP |
+| **Coming Soon** | AWS and cloud infrastructure projects | AWS, Terraform, Ansible |
 
-### 🌐 **Web Applications & Deployment**
+### 🌐 **Web Applications**
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Flask Web Applications** | Building and deploying web apps with CI/CD | Flask, Docker, Python, Jenkins |
-| **Full Stack Projects** | End-to-end application development and deployment | HTML, CSS, JavaScript, Python |
-| **Serverless Applications** | Building serverless architectures | AWS Lambda, API Gateway |
-
-### 📊 **Monitoring, Logging & Data Analysis**
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Monitoring Stack Setup** | Implementing monitoring and alerting solutions | Prometheus, Grafana, CloudWatch |
-| **Log Analysis Tools** | Centralized logging and analysis | ELK Stack, Python |
-| **Data Analysis Projects** | Processing and analyzing operational data | Python, Pandas, NumPy |
+| **Coming Soon** | Web application development and deployment | Flask, Python, JavaScript |
 
 ---
 
