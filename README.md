@@ -39,10 +39,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baggujayaramm@gmail.com)
 
 ## 📂 My DevOps Projects
-
-![git](https://imgur.com/TCiZWsZ.png)
-
-
 |  |  |
 | --- | --- |
 | 🌟 Current Projects   * **Coming Soon** - Docker containerization projects * **Coming Soon** - CI/CD pipeline implementations * **Coming Soon** - Cloud infrastructure deployments * **Coming Soon** - Automation scripts and tools | 🔧 Learning Focus   * **Docker & Kubernetes** - Container orchestration * **AWS/Azure/GCP** - Cloud service platforms * **Jenkins & GitHub Actions** - CI/CD automation * **Terraform & Ansible** - Infrastructure as Code |
