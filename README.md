@@ -2,7 +2,7 @@
 
 [![Aspiring DevOps Engineer | Cloud | Automation | CI/CD](https://img.shields.io/badge/Aspiring_DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/baggujayaramm)
 
-![aboutme](https://imgur.com/CvgYNnv.png)
+![aboutme]()
 
 **Hey there!** 👋 I'm an aspiring DevOps engineer on a journey to master automation, cloud infrastructure, and modern deployment practices.
 
@@ -12,14 +12,14 @@
 
 ## 💫 About Me - Aspiring DevOps Engineer
 
-![learn](https://imgur.com/DY2IoaL.png)
+![learn]()
 
 
 |  |  |
 | --- | --- |
 | What I'm Learning   * 🌩️ **Cloud & DevOps**   + Building scalable infrastructures   + AWS, Azure, GCP exploration * 🤖 **Automation Focus**   + CI/CD pipelines   + Infrastructure as Code (IaC) * 📝 **Continuous Learning**   + Hands-on projects   + DevOps best practices   + Community engagement | Quick Links  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baggujayaramm) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baggujayaramm@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-ramm-baggu-9b9751258/) |
 
-![DevOps Banner](https://i.postimg.cc/jqBZ9NLw/image-2.png)
+![DevOps Banner](https://i.postimg.cc/jqBZ9NLw/image-2.)
 
 ## 🌐 DevOps Learning Hub
 
