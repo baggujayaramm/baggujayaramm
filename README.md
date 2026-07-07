@@ -85,7 +85,7 @@
 I build projects that help me understand real engineering workflows, including:
 
 * **Full-stack applications** with frontend, backend, and database integration
-* Backend services and API-based systems
+* **Backend services** and **API-based systems**
 * **AWS-based tools** for scanning, reporting, and resource management
 * **Linux and automation scripts** for practical tasks
 * **Dockerized applications** and **deployment experiments**
