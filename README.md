@@ -2,7 +2,7 @@
 
 [![Full Stack Engineer | Cloud | Automation | CI/CD](https://img.shields.io/badge/Aspiring_Engineer_%7C_Cloud_%7C_Automation_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/baggujayaramm)
 
-![aboutme](https://i.imgur.com/GGCTmfb.png)
+![aboutme](https://github.com/baggujayaramm/Playground/blob/main/ChatGPT%20Image%20Jul%207%2C%202026%2C%2010_00_04%20PM.png)
 
 **Hey there!** 👋 I’m Jaya Ramm, a builder on a constant grind to understand technology, solve real problems, and keep evolving through every project, bug, and challenge I face.
 
