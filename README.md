@@ -1,6 +1,6 @@
 #  **Building My Way Up, One Challenge at a Time**
 
-[![Full Stack Engineer | Cloud | Automation | CI/CD](https://img.shields.io/badge/Aspiring_DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/baggujayaramm)
+[![Full Stack Engineer | Cloud | Automation | CI/CD](https://img.shields.io/badge/Aspiring_Engineer_%7C_Cloud_%7C_Automation_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/baggujayaramm)
 
 ![aboutme]()
 
@@ -82,19 +82,21 @@
 
 ## 🏆 My Journey Goals
 
-* 🌟 Build **real-world DevOps projects**
-* 🍴 Contribute to **open-source projects**
-* 👨‍💻 Learn from the **DevOps community**
-* 📚 Master **essential DevOps tools**
-* 🎓 Earn **cloud certifications**
-* 💼 Land my **first DevOps role**
+I build projects that help me understand real engineering workflows, including:
+
+* **Full-stack applications** with frontend, backend, and database integration
+* Backend services and API-based systems
+* **AWS-based tools** for scanning, reporting, and resource management
+* **Linux and automation scripts** for practical tasks
+* **Dockerized applications** and **deployment experiments**
+* **Infrastructure** and **workflow automation projects**
 
 ## 💝 Support My Journey
 
 > [!TIP]
 > If you find my projects helpful, consider giving them a star! Your support means a lot.
 
-#### **Join me as I learn and grow in the DevOps space!**
+#### **Join me as I learn and grow in the my learning space!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-baggujayaramm-181717?style=for-the-badge&logo=github)](https://github.com/baggujayaramm)
 [![Follow](https://img.shields.io/github/followers/baggujayaramm?label=Follow&style=social)](https://github.com/baggujayaramm)
